@@ -1,5 +1,6 @@
 # Ex.06 Book Front Cover Page Design
-## Date:5-12-2024
+## Date:
+10-12-2024
 
 ## AIM:
 To design a book front cover page using HTML and CSS.
@@ -51,7 +52,7 @@ Publish the website in the LocalHost.
             height: 600px;
             color: black;
             padding: 30px;
-            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-family: 'Helvetica', 'Helvetica', Arial, sans-serif;
             background-image:url(cover1.jpg) ;
             background-position: center;
             background-size: cover;
@@ -78,8 +79,8 @@ Publish the website in the LocalHost.
             padding-bottom: 20px;
         }
         .booktitle{
-            color: rgb(251, 50, 0);
-            font-family: 'Courier New', Courier, monospace, bold;
+            color: white;
+            font-family: 'Helvetica', Arial, Helvetica, sans-serifcd , monospace, bold;
             font-size: larger;
             text-align: center;
             position: relative;
@@ -136,19 +137,19 @@ Publish the website in the LocalHost.
     <div class="wrapper">
         <div class="bookpage">
             <div class="insight">
-                <b>WEB DEVELOPEMENT</b>
+                <b>Web Development</b>
             </div>
             <div class="hrstyle">
                 <hr style="color:blanchedalmond">
             </div>
             <div class="booktitle">
-                <h1><b>INTRODUCING WEB DEVELOPEMENT</b></h1></div>
+                <h1><b>Introduction to Cryptocurrency</b></h1></div>
             <div class="subtitle">
-                 <b> FOR BEGINNERS </b> 
+                 <b>  </b> 
             <div class="subtitle2">
-                <b>>> Frontend Development</b><br>
-                <b>>> Backend Development</b><br>
-                <b>>> Full-stack Development</b><br>
+                <b>>> Blockchain</b><br>
+                <b>>> Decentralization</b><br>
+                <b>>> Token</b><br>
             </div>     
             </div>
             <div class="mypic">
@@ -158,21 +159,20 @@ Publish the website in the LocalHost.
                 <hr style="color:rgb(208, 205, 255)">
             </div>
             <div class="author">
-               <p><b>MAGESHKUMAR U(24005417)</b></p>
+               <p><b>Anand K - 24900721</b></p>
             </div>
             <div class="pub">
-                SEC 28'
+                SEC '28
             </div>
         </div>
     </div>
 </body>
 </html>5
-
 ```
 
 
 ## OUTPUT:
-![alt text](<Screenshot (9).png>)
+![alt text](<Screenshot 2024-12-10 100119-1.png>)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
